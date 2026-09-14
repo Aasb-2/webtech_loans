@@ -74,3 +74,5 @@ Ref: applications.seeker_id > users.id
 Ref: visits.application_id > applications.id
 Ref: reviews.property_id > properties.id
 Ref: reviews.seeker_id > users.id
+
+![Database Diagram](images/dbdiagram.jpg)
